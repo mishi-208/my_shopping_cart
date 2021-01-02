@@ -1,2 +1,4 @@
-# my_shopping_cart
-Created with CodeSandbox
+# Shopping_Cart
+
+> Live Preview of Build
+> [https://yu852.csb.app/]
